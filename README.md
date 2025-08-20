@@ -7,7 +7,7 @@
 - 📦 **Extração de arquivos PAK**: Descompacta os arquivos `.PAK` para acesso aos recursos internos.
 - 🛠️ **Criação de arquivos PAK**: Permite empacotar novamente os arquivos modificados em um novo `.PAK`.
 - 🔍 **Visualização de conteúdo**: Lista os arquivos contidos em um `.PAK` com detalhes como tamanho e tipo.
-- 🧩 **Compatibilidade com Desperados(Helldorado)**: Suporte específico para os formatos utilizados nesses jogos.
+- 🧩 **Compatibilidade com Desperados(Helldorado)**: Suporte específico para os formatos utilizados nesse jogo.
 
 ## 🖥️ Requisitos do Sistema
 
